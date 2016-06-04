@@ -1,0 +1,13 @@
+# Binaries 
+bin/
+obj/
+
+# Visual Studio 
+*.suo
+*.csproj.user
+
+# Resharper
+
+TestsResults/
+
+packages/*
